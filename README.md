@@ -13,13 +13,13 @@ Experience in NLP for sentiment analysis and text classification. All codes are 
 Experience in Kaggle competition in Natural language processing and forecasting. <br>
 worked on medical imaging projects that involve classification, object  detection, segmentation and tracking.<br>
 Real time fire detection system using CNN. Integrated that model in flutter app that detect the event and send a notification message with location and exact time.(Client project)<br>
-Smart-attendance system using face recognition <br>
-<b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></br>
-<br>Set up a system that was efficient enough to Detect and classify unusual activities from video streams. </br>
-<br>Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. </br>
-<br>Developed a flutter application as a use case of our project that uses real time camera for video streams</br>
-<br>Served the flask API on Hureko Server. Details of the project are available here.</br>
-<br><b>Arrhythmia Detection Using Deep Learning Techniques (Research Project):<b></br>
+Smart-attendance system using face recognition <br><br>
+<h2><b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></br>
+Set up a system that was efficient enough to Detect and classify unusual activities from video streams.<b> </br><h2>
+Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. </br>
+Developed a flutter application as a use case of our project that uses real time camera for video streams</br>
+Served the flask API on Hureko Server. Details of the project are available here.</br><br>
+<b>Arrhythmia Detection Using Deep Learning Techniques (Research Project):<b></br>
 <br>Classified ECG signal using a Conventional Neural Network (CNN) & LSTM.</br>
 <br>Submitted the paper to IEEE Transactions on Biomedical circuits and systems. Codes are available here on the GitHub.</br>
 <br><b>Model Deployment:<b></br>
