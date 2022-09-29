@@ -52,12 +52,10 @@ Here is a bit about my interests and how to get in touch:
 <br></br>
 
 
-- 🔭 I’m currently working on state of the art segmentation and OCR model.
+- 🔭 I’m currently working on state of the art Tracking in Real time using sort and deep Sort.
 - 🌱 I’m currently learning reinforcement learning, knowledge graphs and natural language processing.
 - 💬 Ask me about new machine learning techniques and let's collaborate on making them even better!
-- 📫 How to reach me: garimanishad@gmail.com
+- 📫 How to reach me: ayazmehmood550@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love tech blogging and have been doing so for past  4 years now! You can read my blogs here -> https://garimanishad.medium.com/
 
 <br></br>
-![Garima Github Stats](https://github-readme-stats.vercel.app/api?username=Garima13a&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
