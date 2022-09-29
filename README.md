@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayazmhmd" alt="ayazmhmd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayazmhmd" alt="ayazmhmd" /> </p>
 ### Hi there 👋 I am Ayaz Mehmood!
 <p><a href="https://www.linkedin.com/in/ayaz-mehmood-5b941219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="ayazmehmood550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/ayzMehmood"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> </p>
 
@@ -60,4 +60,4 @@ Here is a bit about my interests and how to get in touch:
 - 😄 Pronouns: she/her
 
 <br></br>
-![Ayaz Github Stats](https://github-readme-stats.vercel.app/api?username=ayazmhmd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Ayaz Github Stats](https://github-readme-stats.vercel.app/api?username=Ayazmhmd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
