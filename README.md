@@ -37,7 +37,7 @@ Interprocess communication using message Queue Method, named pipe and Shared Mem
 Online resume builder using Laravel and SQL database.<br>
 Medical Store using PHP and SQL database.<br>
 <br>
-Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab). I have worked on medical image automation in collaboration with the University of Leicester (UK), wherein I have published six research papers, and a few others are in progress. 
+Moreover, I'm also a Research Scholar at National Center for Cyber Security UET Peshawar.
 </br>
 <br></br>
 My Interests are:
