@@ -1,22 +1,19 @@
 ### Hi there 👋 I am Ayaz Mehmood!
 <p><a href="https://www.linkedin.com/in/ayaz-mehmood-5b941219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="ayazmehmood550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/ayzMehmood"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> </p>
 
-<br>
 <b>
 I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 3 years of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
 </br>
 
-
-
 <h2><b>ML and DL Projects:</b></h2>
 Completed regression, classification, clustering and time series projects in Python using Scikit-Learn. Codes are 
-available here on GitHub.
-Implemented CNN on images and videos. Good knowledge of Image segmentation, classification and Detection.
-Experience in NLP for sentiment analysis and text classification. All codes are available here on the GitHub. 
-Experience in Kaggle competition in Natural language processing and forecasting. 
-worked on medical imaging projects that involve classification, object  detection, segmentation and tracking.
-Real time fire detection system using CNN. Integrated that model in flutter app that detect the event and send a notification message with location and exact time.(Client project)
-Smart-attendance system using face recognition
+available here on GitHub.<br>
+Implemented CNN on images and videos. Good knowledge of Image segmentation, classification and Detection.<br>
+Experience in NLP for sentiment analysis and text classification. All codes are available here on the GitHub. <br>
+Experience in Kaggle competition in Natural language processing and forecasting. <br>
+worked on medical imaging projects that involve classification, object  detection, segmentation and tracking.<br>
+Real time fire detection system using CNN. Integrated that model in flutter app that detect the event and send a notification message with location and exact time.(Client project)<br>
+Smart-attendance system using face recognition <br>
 <b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></br>
 <br>Set up a system that was efficient enough to Detect and classify unusual activities from video streams. </br>
 <br>Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. </br>
