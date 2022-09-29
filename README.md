@@ -5,24 +5,19 @@
 <b>
 I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 3 years of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
 </br>
-<br>
-I have worked on medical imaging projects that involve classification, object  detection, segmentation and tracking.
-</br>
-<br>
-I have worked on real time Anomaly detection from Video streams using Different Algorithm and deployed the Model on Hureko Server
-</br>
-<br>
-I have worked on Different Yolo Version for Object Detection In real world Camera
-</br>
-<b>ML and DL Projects:</b>
-<br>Completed regression, classification, clustering and time series projects in Python using Scikit-Learn. Codes are 
-available here on GitHub. </br>
-<br>Implemented CNN on images and videos. Good knowledge of Image segmentation, classification and Detection. </br>
-<br>Experience in NLP for sentiment analysis and text classification. All codes are available here on the GitHub. </br>
-<br>Experience in Kaggle competition in Natural language processing and forecasting. </br>
-<br>Real time fire detection system using CNN. Integrated that model in flutter app that detect the event and send a notification message with location and exact time.(Client project)</br>
-<br>Smart-attendance system using face recognition</br>
-<br><b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></br>
+
+
+
+<h2><b>ML and DL Projects:</b></h2>
+Completed regression, classification, clustering and time series projects in Python using Scikit-Learn. Codes are 
+available here on GitHub.
+Implemented CNN on images and videos. Good knowledge of Image segmentation, classification and Detection.
+Experience in NLP for sentiment analysis and text classification. All codes are available here on the GitHub. 
+Experience in Kaggle competition in Natural language processing and forecasting. 
+worked on medical imaging projects that involve classification, object  detection, segmentation and tracking.
+Real time fire detection system using CNN. Integrated that model in flutter app that detect the event and send a notification message with location and exact time.(Client project)
+Smart-attendance system using face recognition
+<b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></br>
 <br>Set up a system that was efficient enough to Detect and classify unusual activities from video streams. </br>
 <br>Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. </br>
 <br>Developed a flutter application as a use case of our project that uses real time camera for video streams</br>
