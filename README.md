@@ -14,40 +14,36 @@ I have worked on real time Anomaly detection from Video streams using Different 
 <br>
 I have worked on Different Yolo Version for Object Detection In real world Camera
 </br>
-ML and DL Projects:
- Completed regression, classification, clustering and time series projects in Python using Scikit-Learn. Codes are 
-available here on the GitHub.
- Implemented CNN on images and videos. Good knowledge of Image segmentation, classification and Detection.
-Experience in NLP for sentiment analysis and text classification. All codes are available here on the GitHub.
- Experience in Kaggle competition in Natural language processing and forecasting.
-Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): 
- Set up a system that was efficient enough to Detect and classify unusual activities from video streams. 
- Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. 
- Developed a flutter application as a use case of our project that uses real time camera for video streams
- Served the flask API on Hureko Server. Details of the project are available here
-Arrhythmia Detection Using Deep Learning Techniques (Research Project):
- Classified ECG signal using a Conventional Neural Network (CNN) & LSTM.
- Submitted the paper to IEEE Transactions on Biomedical circuits and systems. Codes are available here on the GitHub.
-Real time fire detection system using CNN (Client project):
- Implemented a CNN model that detect fire in real time.
- Integrated the model in flutter app that detect the event and send a notification message with location and exact time.
-Smart-attendance system using face recognition:
- Designed and tested a system that recognizes faces and mark attendance.
- System saved the recognized faces in an excel sheet. Code are available in this link.
-Model Deployment:
- Served Flask ML and DL APIs on Hureko Server. 
- Deployed of ML Model on AWS Server (Amazon SageMaker).
-Web Scrapping:
- Scraped different websites using Scrapy, beautiful soup, and Parsehub. 
- Scraped product data across different domains for analysis.
-Semester Projects:
- Space shooter game in python (4 Level).
- TIC TAC TOE game and Console Based online delivery system in C++.
- Automatic Street Light using PIR Sensor, Fire Alarm, Firefighting Robot. 
- Hotel, School and Hospital Management System using Linked list in data structure. 
- Interprocess communication using message Queue Method, named pipe and Shared Memory in Unix C.
- Online resume builder using Laravel and SQL database.
- Medical Store using PHP and SQL database.
+<b>ML and DL Projects:</b>
+<br>Completed regression, classification, clustering and time series projects in Python using Scikit-Learn. Codes are 
+available here on GitHub. </br>
+<br>Implemented CNN on images and videos. Good knowledge of Image segmentation, classification and Detection. </br>
+<br>Experience in NLP for sentiment analysis and text classification. All codes are available here on the GitHub. </br>
+<br>Experience in Kaggle competition in Natural language processing and forecasting. </br>
+<br>Real time fire detection system using CNN. Integrated that model in flutter app that detect the event and send a notification message with location and exact time.(Client project)</br>
+<br>Smart-attendance system using face recognition</br>
+<br><b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></br>
+<br>Set up a system that was efficient enough to Detect and classify unusual activities from video streams. </br>
+<br>Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. </br>
+<br>Developed a flutter application as a use case of our project that uses real time camera for video streams</br>
+<br>Served the flask API on Hureko Server. Details of the project are available here.</br>
+<br><b>Arrhythmia Detection Using Deep Learning Techniques (Research Project):<b></br>
+<br>Classified ECG signal using a Conventional Neural Network (CNN) & LSTM.</br>
+<br>Submitted the paper to IEEE Transactions on Biomedical circuits and systems. Codes are available here on the GitHub.</br>
+<br><b>Model Deployment:<b></br>
+<br>Served Flask ML and DL APIs on Hureko Server. </br>
+<br>Deployed of ML Model on AWS Server (Amazon SageMaker).</br>
+<br><b>Web Scrapping:<b></br>
+<br>Scraped different websites using Scrapy, beautiful soup, and Parsehub. </br>
+<br>Scraped product data across different domains for analysis.</br>
+<br><b>Semester Projects:</b></br>
+<br>Space shooter game in python (4 Level).
+<br>TIC TAC TOE game and Console Based online delivery system in C++.
+<br>Automatic Street Light using PIR Sensor, Fire Alarm, Firefighting Robot. 
+<br>Hotel, School and Hospital Management System using Linked list in data structure. 
+<br>Interprocess communication using message Queue Method, named pipe and Shared Memory in Unix C.
+<br>Online resume builder using Laravel and SQL database.
+<br>Medical Store using PHP and SQL database.
 <br>
 Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab). I have worked on medical image automation in collaboration with the University of Leicester (UK), wherein I have published six research papers, and a few others are in progress. 
 </br>
