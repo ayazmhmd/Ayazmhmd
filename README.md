@@ -14,18 +14,18 @@ Experience in Kaggle competition in Natural language processing and forecasting.
 worked on medical imaging projects that involve classification, object  detection, segmentation and tracking.<br>
 Real time fire detection system using CNN. Integrated that model in flutter app that detect the event and send a notification message with location and exact time.(Client project)<br>
 Smart-attendance system using face recognition <br>
-<h2><b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></br></h2>
+<h2><b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></h2>
 Set up a system that was efficient enough to Detect and classify unusual activities from video streams.</br>
 Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. </br>
 Developed a flutter application as a use case of our project that uses real time camera for video streams</br>
 Served the flask API on Hureko Server. Details of the project are available here.</br>
-<h2><b>Arrhythmia Detection Using Deep Learning Techniques (Research Project):<b></h2></br>
+<h2><b>Arrhythmia Detection Using Deep Learning Techniques (Research Project):<b></h2>
 Classified ECG signal using a Conventional Neural Network (CNN) & LSTM.</br>
 Submitted the paper to IEEE Transactions on Biomedical circuits and systems. Codes are available here on the GitHub.</br>
-<h2><b>Model Deployment:<b></h2></br>
+<h2><b>Model Deployment:<b></h2>
 Served Flask ML and DL APIs on Hureko Server. </br>
 Deployed of ML Model on AWS Server (Amazon SageMaker).</br>
-<h2><b>Web Scrapping:<b></h2></br>
+<h2><b>Web Scrapping:<b></h2>
 Scraped different websites using Scrapy, beautiful soup, and Parsehub. </br>
 Scraped product data across different domains for analysis.</br>
 <h2><b>Semester Projects:</b></h2>
