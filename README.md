@@ -22,7 +22,7 @@ Served the flask API on Hureko Server. Details of the project are available here
 <h2><b>Arrhythmia Detection Using Deep Learning Techniques (Research Project):</b></h2>
 Classified ECG signal using a Conventional Neural Network (CNN) & LSTM.</br>
 Submitted the paper to IEEE Transactions on Biomedical circuits and systems. Codes are available here on the GitHub.</br>
-<h2><b>Model Deployment:<b></h2>
+<h2><b>Model Deployment:</b></h2>
 Served Flask ML and DL APIs on Hureko Server. </br>
 Deployed of ML Model on AWS Server (Amazon SageMaker).</br>
 <h2><b>Web Scrapping:</b></h2>
