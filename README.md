@@ -1,14 +1,53 @@
-### Hi there 👋 I am Ayaz!
+### Hi there 👋 I am Ayaz Mehmood!
 <p><a href="https://www.linkedin.com/in/ayaz-mehmood-5b941219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="ayazmehmood550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/ayzMehmood"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> </p>
 
 <br>
 <b>
-I have been working in Deep Learning, and Computer Vision-based models. A data scientist and a ML researcher with more than 3 years of good track record of ML papers in reputed ML conferences. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
+I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 3 years of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
 </br>
 <br>
-I have worked on medical imaging and e-learning projects that involve classification, object  detection, segmentation and tracking.
+I have worked on medical imaging projects that involve classification, object  detection, segmentation and tracking.
 </br>
-
+<br>
+I have worked on real time Anomaly detection from Video streams using Different Algorithm and deployed the Model on Hureko Server
+</br>
+<br>
+I have worked on Different Yolo Version for Object Detection In real world Camera
+</br>
+ML and DL Projects:
+ Completed regression, classification, clustering and time series projects in Python using Scikit-Learn. Codes are 
+available here on the GitHub.
+ Implemented CNN on images and videos. Good knowledge of Image segmentation, classification and Detection.
+Experience in NLP for sentiment analysis and text classification. All codes are available here on the GitHub.
+ Experience in Kaggle competition in Natural language processing and forecasting.
+Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): 
+ Set up a system that was efficient enough to Detect and classify unusual activities from video streams. 
+ Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. 
+ Developed a flutter application as a use case of our project that uses real time camera for video streams
+ Served the flask API on Hureko Server. Details of the project are available here
+Arrhythmia Detection Using Deep Learning Techniques (Research Project):
+ Classified ECG signal using a Conventional Neural Network (CNN) & LSTM.
+ Submitted the paper to IEEE Transactions on Biomedical circuits and systems. Codes are available here on the GitHub.
+Real time fire detection system using CNN (Client project):
+ Implemented a CNN model that detect fire in real time.
+ Integrated the model in flutter app that detect the event and send a notification message with location and exact time.
+Smart-attendance system using face recognition:
+ Designed and tested a system that recognizes faces and mark attendance.
+ System saved the recognized faces in an excel sheet. Code are available in this link.
+Model Deployment:
+ Served Flask ML and DL APIs on Hureko Server. 
+ Deployed of ML Model on AWS Server (Amazon SageMaker).
+Web Scrapping:
+ Scraped different websites using Scrapy, beautiful soup, and Parsehub. 
+ Scraped product data across different domains for analysis.
+Semester Projects:
+ Space shooter game in python (4 Level).
+ TIC TAC TOE game and Console Based online delivery system in C++.
+ Automatic Street Light using PIR Sensor, Fire Alarm, Firefighting Robot. 
+ Hotel, School and Hospital Management System using Linked list in data structure. 
+ Interprocess communication using message Queue Method, named pipe and Shared Memory in Unix C.
+ Online resume builder using Laravel and SQL database.
+ Medical Store using PHP and SQL database.
 <br>
 Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab). I have worked on medical image automation in collaboration with the University of Leicester (UK), wherein I have published six research papers, and a few others are in progress. 
 </br>
