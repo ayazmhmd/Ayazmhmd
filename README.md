@@ -3,7 +3,7 @@
 <p><a href="https://www.linkedin.com/in/ayaz-mehmood-5b941219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://mail.google.com/mail/u/?authuser=ayazmehmood550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/ayzMehmood"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> </p>
 
 <b>
-I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 1 years of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
+I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 1 year of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
 </br>
 
 <h2><b>ML and DL Projects:</b></h2>
