@@ -39,8 +39,8 @@ Automatic Street Light using PIR Sensor, Fire Alarm, Firefighting Robot. <br>
 Hotel, School and Hospital Management System using Linked list in data structure. <br>
 Interprocess communication using message Queue Method, named pipe and Shared Memory in Unix C.<br>
 Online resume builder using Laravel and SQL database.<br>
-Medical Store using PHP and SQL database.<br>
-Moreover, I'm also a Research Scholar at National Center for Cyber Security UET Peshawar.
+Medical Store using PHP and SQL database.<br><br>
+Moreover, I'm also an <b>AI Research Scholar</b> at <b>National Center for Cyber Security UET Peshawar</b>.
 <br></br>
 My Interests are:
 <br>
