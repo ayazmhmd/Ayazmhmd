@@ -40,12 +40,10 @@ Hotel, School and Hospital Management System using Linked list in data structure
 Interprocess communication using message Queue Method, named pipe and Shared Memory in Unix C.<br>
 Online resume builder using Laravel and SQL database.<br>
 Medical Store using PHP and SQL database.<br>
-<br>
 Moreover, I'm also a Research Scholar at National Center for Cyber Security UET Peshawar.
-</br>
 <br></br>
 My Interests are:
-<br></br>
+<br>
 <b>
 "Machine Learning, Deep Learning, Computer Vision, Statistical analysis, Machine learning in natural sciences, Biomedical imaging."
   </b>
