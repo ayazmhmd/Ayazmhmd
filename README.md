@@ -24,8 +24,9 @@ Served the flask API on Hureko Server. Details of the project are available here
 Classified ECG signal using a Conventional Neural Network (CNN) & LSTM.</br>
 Submitted the paper to IEEE Transactions on Biomedical circuits and systems.</br>
 <h2><b>Disaster Management project of NLP (Research Project):</b></h2>
-Currently working on classification of the tweet of disaster management.</br>
-Almost completed the EDA and currently working on modeling.</br>
+Submitted a paper on MediaEval Competition of Multimedia Analysis of Disaster-Related Social Media Data
+Worked on classification and Named Entity recognition of the tweet of disaster management.</br>
+completed the EDA, data preprocessing and modeling.</br>
 <h2><b>Model Deployment:</b></h2>
 Served Flask ML and DL APIs on Hureko Server. </br>
 Deployed of ML Model on AWS Server (Amazon SageMaker).</br>
