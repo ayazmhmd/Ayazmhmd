@@ -28,7 +28,7 @@ Submitted a paper on MediaEval Competition of Multimedia Analysis of Disaster-Re
 Worked on classification and Named Entity recognition of the tweet of disaster management.</br>
 completed the EDA, data preprocessing and modeling.</br>
 <h2><b>Early Detection of Alzheimer's disease using vision Transformer):</b></h2>
-Developed a custom vision transformer Model for Alzheimer’s disease classification.
+Developed a custom vision transformer Model for Alzheimer’s disease classification.<br>
 Fine-tuned the model and achieved accuracy of 90%.</br>
 
 <h2><b>Model Deployment:</b></h2>
