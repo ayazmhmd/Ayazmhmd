@@ -1,52 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayazmhmd" alt="ayazmhmd" /> </p>
-<b> Hi there 👋 I am <b>Ayaz Mehmood!</b>
-<p><a href="https://www.linkedin.com/in/ayaz-mehmood-5b941219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://mail.google.com/mail/u/?authuser=ayazmehmood550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/ayzMehmood"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> </p>
-
-<b>
-I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 1 year of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
+<div align="center";width="50%"> <img src="https://komarev.com/ghpvc/?username=Ayazmhmd" alt="ayazmhmd"><br>
+ Hi there 👋 I am <b>Ayaz Mehmood!</b><br>
+<em>Research Assistant at <a href="http://midl.comsats.edu.pk/">Medical Imaging & Diagnostic Lab,NCAI
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em><br>
+📫 Like to meet me? 
+<p><a href="https://www.linkedin.com/in/ayaz-mehmood-5b941219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> <a href="https://mail.google.com/mail/u/?authuser=ayazmehmood550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a> <a href="https://twitter.com/ayzMehmood"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> </p>
+  </div>
+I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 1 year of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.
 </br>
 
-<h2><b>ML and DL Projects:</b></h2>
-Completed regression, classification, clustering and time series projects in Python using Scikit-Learn. Codes are 
-available here on GitHub.<br>
-Implemented CNN on images and videos. Good knowledge of Image segmentation, classification and Detection.<br>
-Experience in NLP for sentiment analysis and text classification. All codes are available here on the GitHub. <br>
-Experience in Kaggle competition in Natural language processing and forecasting. <br>
-worked on medical imaging projects that involve classification, object  detection, segmentation and tracking.<br>
-Real time fire detection system using CNN. Integrated that model in flutter app that detect the event and send a notification message with location and exact time.(Client project)<br>
-Smart-attendance system using face recognition <br>
-<h2><b>Anomaly Detection from Video Streams Using Deep Learning techniques (FYP): </b></h2>
-Set up a system that was efficient enough to Detect and classify unusual activities from video streams.</br>
-Worked on 3 Anomalous categories (Fighting, Shoplifting and Explosion) and achieved accuracy of 82%. </br>
-Developed a flutter application as a use case of our project that uses real time camera for video streams</br>
-Served the flask API on Hureko Server. Details of the project are available here.</br>
-<h2><b>Arrhythmia Detection Using Deep Learning Techniques (Research Project):</b></h2>
-Classified ECG signal using a Conventional Neural Network (CNN) & LSTM.</br>
-Submitted the paper to IEEE Transactions on Biomedical circuits and systems.</br>
-<h2><b>Disaster Management project of NLP (Research Project):</b></h2>
-Submitted a paper on MediaEval Competition of Multimedia Analysis of Disaster-Related Social Media Data
-Worked on classification and Named Entity recognition of the tweet of disaster management.</br>
-completed the EDA, data preprocessing and modeling.</br>
-<h2><b>Early Detection of Alzheimer's disease using vision Transformer:</b></h2>
-Developed a custom vision transformer Model for Alzheimer’s disease classification.<br>
-Fine-tuned the model and achieved accuracy of 90%.</br>
-
-<h2><b>Model Deployment:</b></h2>
-Served Flask ML and DL APIs on Hureko Server. </br>
-Deployed of ML Model on AWS Server (Amazon SageMaker).</br>
-<h2><b>Web Scrapping:</b></h2>
-Scraped different websites using Scrapy, beautiful soup, and Parsehub. </br>
-Scraped product data across different domains for analysis.</br>
-<h2><b>Semester Projects:</b></h2>
-Space shooter game in python (4 Level).<br>
-TIC TAC TOE game and Console Based online delivery system in C++.<br>
-Automatic Street Light using PIR Sensor, Fire Alarm, Firefighting Robot. <br>
-Hotel, School and Hospital Management System using Linked list in data structure. <br>
-Interprocess communication using message Queue Method, named pipe and Shared Memory in Unix C.<br>
-Online resume builder using Laravel and SQL database.<br>
-Medical Store using PHP and SQL database.<br><br>
-Moreover, I'm also a <b>Research assistant </b> at <b>National Center of Artificial Intelligence Comsat University</b>.
-<br></br>
 My Interests are:
 <br>
 <b>
@@ -54,10 +16,10 @@ My Interests are:
   </b>
 </br>
 <br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 Here is a bit about my interests and how to get in touch:
 </br>
-<br></br>
-
 
 - 🔭 I’m currently working on state of the art Tracking in Real time using sort and deep Sort.
 - 🌱 I’m currently learning reinforcement learning, knowledge graphs and natural language processing.
@@ -67,3 +29,5 @@ Here is a bit about my interests and how to get in touch:
 
 <br></br>
 ![Ayaz Github Stats](https://github-readme-stats.vercel.app/api?username=ayazmhmd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=ayazmhmd)](https://github.com/ryo-ma/github-profile-trophy)
