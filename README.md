@@ -21,8 +21,8 @@ My Interests are:
 Here is a bit about my interests and how to get in touch:
 </br>
 
-- 🔭 I’m currently working on state of the art Tracking in Real time using sort and deep Sort.
-- 🌱 I’m currently learning reinforcement learning, knowledge graphs and natural language processing.
+- 🔭 Currently completely aligned towards Medical Imaging and Synthetic Data Generation.
+- 🌱 I’m currently learning GAN Models and Natural Language Processing.
 - 💬 Ask me about new machine learning techniques and let's collaborate on making them even better!
 - 📫 How to reach me: ayazmehmood550@gmail.com
 - 😄 Pronouns: He/his
