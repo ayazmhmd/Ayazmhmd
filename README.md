@@ -1,31 +1,32 @@
 <div align="center";width="50%"> <img src="https://komarev.com/ghpvc/?username=Ayazmhmd" alt="ayazmhmd"><br>
  Hi there 👋 I am <b>Ayaz Mehmood!</b><br>
-<em>Research Assistant at <a href="http://midl.comsats.edu.pk/">Medical Imaging & Diagnostic Lab,NCAI
+ <em>Data Science and machine learning Engineer at <a href="www.glowlogix.com">Glowlogix
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em><br>
 📫 Like to meet me? 
 <p><a href="https://www.linkedin.com/in/ayaz-mehmood-5b941219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> <a href="https://mail.google.com/mail/u/?authuser=ayazmehmood550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a> <a href="https://twitter.com/ayzMehmood"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> </p>
   </div>
-I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 1 year of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.
+I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 1.5 year of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.
 </br>
 
 My Interests are:
 <br>
 <b>
-"Machine Learning, Deep Learning, Computer Vision, Statistical analysis, Machine learning in natural sciences, Biomedical imaging."
+"Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Biomedical imaging."
   </b>
 </br>
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-Here is a bit about my interests and how to get in touch:
-</br>
-
-- 🔭 Currently completely aligned towards Medical Imaging and Synthetic Data Generation.
-- 🌱 I’m currently learning GAN Models and Natural Language Processing.
-- 💬 Ask me about new machine learning techniques and let's collaborate on making them even better!
-- 📫 How to reach me: ayazmehmood550@gmail.com
-- 😄 Pronouns: He/his
+<h4 align="left">Achievements</h4>
+- Contributed to the National Center of Artificial Intelligence for one year, gaining valuable experience in AI research and development.<br>
+- Participated in the Mediaeval Competition and presented our team's work at a prestigious conference, showcasing our expertise in the field.<br>
+- Recognized as a top-rated freelancer, consistently delivering high-quality projects and exceeding client expectations.<br>
+<h3 align="left">Here is a bit about my interests and how to get in touch:</h3>
+- 🔭 Currently completely aligned towards Medical Imaging and NLP.</br>
+- 🌱 I’m currently learning GAN Models and Large Language Model.</br>
+- 💬 Ask me about new machine learning techniques and let's collaborate on making them even better!</br>
+- 📫 How to reach me: ayazmehmood550@gmail.com</br>
+- 😄 Pronouns: He/his</br>
 
 <br></br>
 ![Ayaz Github Stats](https://github-readme-stats.vercel.app/api?username=ayazmhmd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
