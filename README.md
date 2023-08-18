@@ -21,7 +21,7 @@ My Interests are:
 - Contributed to the National Center of Artificial Intelligence for one year, gaining valuable experience in AI research and development.<br>
 - Participated in the Mediaeval Competition and presented our team's work at a prestigious conference, showcasing our expertise in the field.<br>
 - Recognized as a top-rated freelancer, consistently delivering high-quality projects and exceeding client expectations.<br>
-<h3 align="left">Here is a bit about my interests and how to get in touch:</h3>
+<h5 align="left">Here is a bit about my interests and how to get in touch:</h5>
 - 🔭 Currently completely aligned towards Medical Imaging and NLP.</br>
 - 🌱 I’m currently learning GAN Models and Large Language Model.</br>
 - 💬 Ask me about new machine learning techniques and let's collaborate on making them even better!</br>
