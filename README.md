@@ -1,18 +1,18 @@
 <div align="center";width="50%"> <img src="https://komarev.com/ghpvc/?username=Ayazmhmd" alt="ayazmhmd"><br>
- Hi there 👋 I am <b>Ayaz Mehmood!</b><br>
+ Hi there 👋 I am <b>Ayaz Mehmood! Top rated freelancer on fiver and upwork</b><br>
  <em>Data Science and machine learning Engineer at <a href="[www.glowlogix.com](https://www.glowlogix.com/)">Glowlogix
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em><br>
 📫 Like to meet me? 
 <p><a href="https://www.linkedin.com/in/ayaz-mehmood-5b941219a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30></a> <a href="https://mail.google.com/mail/u/?authuser=ayazmehmood550@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=30></a> <a href="https://twitter.com/ayzMehmood"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a> </p>
   </div>
-I have been working in Machine Learning, Deep Learning, NLP and Computer Vision-based models. A data scientist with more than 1.5 year of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.
+I have been working in Machine Learning, Deep Learning, NLP,Computer Vision, LLM and chatbot projects A data scientist with more than 2 year of experience. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.
 </br>
 
 My Interests are:
 <br>
 <b>
-"Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Biomedical imaging."
+"Computer vision, NLP, Generative AI, Chatbot Development and LLM."
   </b>
 </br>
 <h3 align="left">Languages and Tools:</h3>
@@ -21,10 +21,10 @@ My Interests are:
 - Contributed to the National Center of Artificial Intelligence for one year, gaining valuable experience in AI research and development.<br>
 - Participated in the Mediaeval Competition and presented our team's work at a prestigious conference, showcasing our expertise in the field.<br>
 - Recognized as a top-rated freelancer, consistently delivering high-quality projects and exceeding client expectations.<br>
+- Developed AI based solution for clients which include chatbot development, Generative AI and LLM finetuning<br>
 <h5 align="left">Here is a bit about my interests and how to get in touch:</h5>
-- 🔭 Currently completely aligned towards Medical Imaging and NLP.</br>
-- 🌱 I’m currently learning GAN Models and Large Language Model.</br>
-- 💬 Ask me about new machine learning techniques and let's collaborate on making them even better!</br>
+- 🔭 Currently Working towards Genarative AI, Large Language Model and MultiModel</br>
+- 💬 Ask me about new machine learning deep learning and generative AI techniques and let's collaborate on making them even better!</br>
 - 📫 How to reach me: ayazmehmood550@gmail.com</br>
 - 😄 Pronouns: He/his</br>
 
