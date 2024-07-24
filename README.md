@@ -23,7 +23,7 @@ My Interests are:
 - Recognized as a top-rated freelancer, consistently delivering high-quality projects and exceeding client expectations.<br>
 - Developed AI based solution for clients which include chatbot development, Generative AI and LLM finetuning<br>
 <h5 align="left">Here is a bit about my interests and how to get in touch:</h5>
-- 🔭 Currently Working on Genarative AI, Large Language Model and MultiModel</br>
+- 🔭 Currently Working on Generative AI, Large Language Model and MultiModel</br>
 - 💬 Ask me about new machine learning deep learning and generative AI techniques and let's collaborate on making them even better!</br>
 - 📫 How to reach me: ayazmehmood550@gmail.com</br>
 - 😄 Pronouns: He/his</br>
