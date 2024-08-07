@@ -1,6 +1,6 @@
 <div align="center";width="50%"> <img src="https://komarev.com/ghpvc/?username=Ayazmhmd" alt="ayazmhmd"><br>
  Hi there 👋 I am <b>Ayaz Mehmood! Top rated freelancer on fiver and upwork</b><br>
- <em>Data Science and machine learning Engineer at <a href="[www.glowlogix.com](https://www.glowlogix.com/)">Glowlogix
+<!--  <em>Data Science and machine learning Engineer at <a href="[www.glowlogix.com](https://www.glowlogix.com/)">Glowlogix -->
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em><br>
 📫 Like to meet me? 
