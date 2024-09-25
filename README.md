@@ -20,8 +20,8 @@ My Interests are:
 <h4 align="left">Achievements</h4>
 - Contributed to the National Center of Artificial Intelligence for one year, gaining valuable experience in AI research and development.<br>
 - Participated in the Mediaeval Competition and presented our team's work at a prestigious conference, showcasing our expertise in the field.<br>
-- Recognized as a top-rated freelancer, consistently delivering high-quality projects and exceeding client expectations.<br>
-- Developed AI based solution for clients which include chatbot development, Generative AI and LLM finetuning<br>
+<!-- # - Recognized as a top-rated freelancer, consistently delivering high-quality projects and exceeding client expectations.<br> -->
+- Developed AI based solution which include chatbot development, Generative AI and LLM finetuning<br>
 <h5 align="left">Here is a bit about my interests and how to get in touch:</h5>
 - 🔭 Currently Working on Generative AI, Large Language Model and MultiModel</br>
 - 💬 Ask me about new machine learning deep learning and generative AI techniques and let's collaborate on making them even better!</br>
